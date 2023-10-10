@@ -45,7 +45,7 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE.md f
 
 - Website: [https://www.ngcodex.com](https://ngcodex.com)
 - Email: contact@ngcodex.com
-- CEO [CodeurZEBS](github.com/codeurzebs)
+- CEO [CodeurZEBS](https://github.com/codeurzebs)
 
 ---
 
