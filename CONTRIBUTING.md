@@ -15,7 +15,7 @@ Thank you for considering contributing to NGcodeX! By participating in our commu
 
 ## 1. Code of Conduct
 
-Please review and adhere to our [Code of Conduct](code-of-conduct.md) in all your interactions within the NGcodeX community.
+Please review and adhere to our [Code of Conduct](https://github.com/NGcodeX/NGcodeX-Community/blob/main/docs/code-of-conduct.md) in all your interactions within the NGcodeX community.
 
 ## 2. How to Contribute
 
@@ -54,7 +54,7 @@ Write tests for your code changes and ensure they pass before submitting a PR. F
 If you have questions or need assistance, reach out to the community:
 
 - Use the GitHub discussions.
-- Join our community chat on [Slack/Discord].
+- Join our community chat on [Discord/WhatsApp/Telegram].
 - Email us at [contact@ngcodex.com].
 
 Thank you for contributing to NGcodeX!
