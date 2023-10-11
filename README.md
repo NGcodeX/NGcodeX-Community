@@ -18,11 +18,14 @@ Welcome to the official repository of the NGcodeX community. This repository con
 
 ## Repository Content
 
-- **docs/**: Community documentation, user guides, tutorials, etc.
-- **dev-session/**: Projects and resources related to the Dev Session module.
-- **gaming/**: Information and activities related to the Gaming module.
-- **enterprise/**: Projects and discussions related to the Enterprise module.
-- **.github/**: GitHub configuration files, issue templates, etc.
+| Directory            | GitHub Repository / Documentation                           | Description                                                        |
+|-----------------------|--------------------------------------------------------------|--------------------------------------------------------------------|
+| **docs/**             | [![GitHub - Docs](https://img.shields.io/badge/GitHub-Docs-brightgreen)](https://github.com/NGcodeX/NGcodeX-Community/tree/main/docs) | 📚 Community documentation, user guides, tutorials, etc.           |
+| **dev-session/**      | [![GitHub - Dev Session](https://img.shields.io/badge/GitHub-Dev%20Session-brightgreen)](https://github.com/NGcodeX/NGcodeX-Community/tree/main/dev-session) | 🚀 Projects and resources related to the Dev Session module.      |
+| **gaming/**           | [![GitHub - Gaming](https://img.shields.io/badge/GitHub-Gaming-brightgreen)](https://github.com/NGcodeX/NGcodeX-Community/tree/main/gaming) | 🎮 Information and activities related to the Gaming module.        |
+| **enterprise/**       | [![GitHub - Enterprise](https://img.shields.io/badge/GitHub-Enterprise-brightgreen)](https://github.com/NGcodeX/NGcodeX-Community/tree/main/enterprise) | 💼 Projects and discussions related to the Enterprise module.      |
+| **.github/**          | [![GitHub - .github](https://img.shields.io/badge/GitHub-.github-brightgreen)](https://github.com/NGcodeX/NGcodeX-Community/tree/main/.github/workflows) | 🔧 GitHub configuration files, issue templates, etc.               |
+
 
 ## How to Contribute
 
