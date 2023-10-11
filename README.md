@@ -9,17 +9,12 @@ Welcome to the official repository of the NGcodeX community. This repository con
 
 ## Modules
 
-### 1. [Dev Session](https://github.com/NGcodeX/NGcodeX-Hacktoberfest)/[website](https://ngcodex.com/dev-session/)
+| Module        | GitHub Repository                                    | Website                                 | Description                                                                                                             |
+|---------------|-------------------------------------------------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| Dev Session   | [![Dev Session GitHub](https://img.shields.io/badge/GitHub-NGcodeX--Hacktoberfest-brightgreen)](https://github.com/NGcodeX/NGcodeX-Hacktoberfest) | [![Dev Session Website](https://img.shields.io/badge/Website-Dev%20Session-blue)](https://ngcodex.com/dev-session/) | Dedicated to software development. Explore open-source projects, participate in live coding sessions, and share your knowledge with other development enthusiasts. |
+| Gaming        | [![Gaming GitHub](https://img.shields.io/badge/GitHub-NGcodeX__Gaming-brightgreen)](https://github.com/NGcodeX/NGcodeX_Gaming) | [![Gaming Website](https://img.shields.io/badge/Website-Gaming-orange)](https://ngcodex.com/gaming/)       | For gaming enthusiasts. Discover the latest news, organize online gaming sessions with other community members, and participate in tournaments.                                       |
+| Enterprise    | [![Enterprise GitHub](https://img.shields.io/badge/GitHub-NGcodeX__Entreprise-brightgreen)](https://github.com/NGcodeX/NGcodeX_Entreprise) | [![Enterprise Website](https://img.shields.io/badge/Website-Enterprise-red)](https://ngcodex.com/entreprise/) | Designed for industry professionals. Collaborate on enterprise projects, share knowledge, and explore career opportunities in the technology sector.                                |
 
-The Dev Session module is dedicated to software development. Explore open-source projects, participate in live coding sessions, and share your knowledge with other development enthusiasts.
-
-### 2. [Gaming](https://github.com/NGcodeX/NGcodeX_Gaming)/[website](https://ngcodex.com/gaming/)
-
-The Gaming module is for gaming enthusiasts. Discover the latest news, organize online gaming sessions with other community members, and participate in tournaments.
-
-### 3. [Enterprise](https://github.com/NGcodeX/NGcodeX_Entreprise)/[website](https://ngcodex.com/entreprise/)
-
-The Enterprise module is designed for industry professionals. Collaborate on enterprise projects, share knowledge, and explore career opportunities in the technology sector.
 
 ## Repository Content
 
