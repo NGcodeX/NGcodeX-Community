@@ -35,6 +35,14 @@ We welcome contributions from our community. Before contributing, please refer t
 
 Use the [Issues](https://github.com/NGcodeX/NGcodeX-Community/issues) section to report issues, request features, or discuss topics related to the community.
 
+## Contribution
+
+[![Supporter](https://opencollective.com/ngcodex/tiers/supporter/badge.svg?label=Supporter&color=blue)](https://opencollective.com/ngcodex#support)
+[![Active Contributor](https://opencollective.com/ngcodex/tiers/active-contributor/badge.svg?label=Active%20Contributor&color=blue)](https://opencollective.com/ngcodex#active-contributor)
+[![VIP Member](https://opencollective.com/ngcodex/tiers/vip-member/badge.svg?label=VIP%20Member&color=blue)](https://opencollective.com/ngcodex#vip-member)
+[![Corporate Sponsor](https://opencollective.com/ngcodex/tiers/corporate-sponsor/badge.svg?label=Corporate%20Sponsor&color=blue)](https://opencollective.com/ngcodex#corporate-sponsor)
+[![Patron](https://opencollective.com/ngcodex/tiers/patron/badge.svg?label=Patron&color=blue)](https://opencollective.com/ngcodex#patron)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE.md file for more details.
