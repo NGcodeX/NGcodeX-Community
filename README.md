@@ -42,14 +42,14 @@ Use the [Issues](https://github.com/NGcodeX/NGcodeX-Community/issues) section to
 [![VIP Member](https://opencollective.com/ngcodex/tiers/vip-member/badge.svg?label=VIP%20Member&color=blue)](https://opencollective.com/ngcodex#vip-member)
 [![Corporate Sponsor](https://opencollective.com/ngcodex/tiers/corporate-sponsor/badge.svg?label=Corporate%20Sponsor&color=blue)](https://opencollective.com/ngcodex#corporate-sponsor)
 [![Patron](https://opencollective.com/ngcodex/tiers/patron/badge.svg?label=Patron&color=blue)](https://opencollective.com/ngcodex#patron)
-
+[![](https://github.com/NGcodeX/NGcodeX-Community/blob/main/.github/workflows/private/Abstract%20Technology%20Profile%20LinkedIn%20Banner.jpg?raw=true)](https://opencollective.com/ngcodex)
 ## License
 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE.md file for more details.
 
 ## Contact
 
-- Website: [https://www.ngcodex.com](https://ngcodex.com)
+- Website: [https://ngcodex.com](https://ngcodex.com)
 - Email: contact@ngcodex.com
 - CEO [CodeurZEBS](https://github.com/codeurzebs)
 
