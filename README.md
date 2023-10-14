@@ -5,7 +5,7 @@ Welcome to the official repository of the NGcodeX community. This repository con
 
 ## About NGcodeX Community
 
-[NGcodeX](https://ngcodex.com) is a dynamic community that focuses on three main modules: Dev Session, Gaming, and Enterprise. We aim to create an inclusive environment where developers, gaming enthusiasts, and professionals can learn, collaborate, and contribute to various projects.
+[NGcodeX](https://ngcodex.com) is a dynamic student community that focuses on three main modules: Dev Session, Gaming, and Enterprise. We aim to create an inclusive environment where developers, gaming enthusiasts, and professionals can learn, collaborate, and contribute to various projects.
 
 ## Modules
 
